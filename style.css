@@ -115,3 +115,12 @@ h1 {
     transform: scale(1);
   }
 }
+
+audio {
+  padding-bottom: 10px;
+  width: 270px;
+}
+
+.audio-container {
+  padding-bottom: 16px;
+}
